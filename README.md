@@ -5,7 +5,7 @@
 
 
 
-- 📝 I regularly write articles on [https://willarry.hashnode.dev/](https://willarry.hashnode.dev/)
+- 📝 I regularly write articles on [willarry.hashnode.dev](https://willarry.hashnode.dev/)
 
 - 💬 Ask me about **react, JAMstack**
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willarry&show_icons=true&locale=en" alt="willarry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willarry&" alt="willarry" /></p>![image](https://user-images.githubusercontent.com/77531807/221363390-01037d96-3a05-4e66-ba29-d47ba9dcc0cf.png)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willarry&" alt="willarry" /></p>
