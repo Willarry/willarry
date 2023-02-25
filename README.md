@@ -1,15 +1,12 @@
-![willarry-github](https://user-images.githubusercontent.com/77531807/221364374-d59f2e60-8540-42f7-987a-005406d793b8.png)
-
-
-<h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">👋Hi there!</h1>
+<p>I'm Willarry, a passionate Frontend web developer building beautiful, user-friendly experiences. Passionate about coding, design, and exploring new technologies. Open source contributor and avid learner.</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 
 - 📝 I regularly write articles on [willarry.hashnode.dev](https://willarry.hashnode.dev/)
 
-- 💬 Ask me about **react, JAMstack**
+- 💬 Ask me about **React, JAMstack**
 
 - 📫 How to reach me⬇ <p align="left"> <a href="https://twitter.com/willarrydev" target="blank"><img src="https://img.shields.io/twitter/follow/willarrydev?logo=twitter&style=for-the-badge" alt="willarrydev" /></a> </p>
 
@@ -22,7 +19,6 @@
 <a href="https://twitter.com/willarrydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willarrydev" height="30" width="40" /></a>
 <a href="https://hashnode.com/willarry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="willarry" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/webcoach_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoach_" height="30" width="40" /></a>
-<a href="/https://willarry.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://willarry.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
